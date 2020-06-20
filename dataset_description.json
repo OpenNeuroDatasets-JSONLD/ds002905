@@ -1,0 +1,14 @@
+{
+    "Name": "simpcomp",
+    "BIDSVersion": "1.2.1",
+    "License": "ODT-SA",
+    "Authors": [
+        "Christophe Pallier",
+        "Laurent Bonnasse-Gahot"
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "Funding": [
+        "French National Research Agency"
+    ]
+}
