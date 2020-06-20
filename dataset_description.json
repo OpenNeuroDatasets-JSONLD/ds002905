@@ -1,7 +1,7 @@
 {
     "Name": "simpcomp",
     "BIDSVersion": "1.2.1",
-    "License": "ODT-SA",
+    "License": "CC0",
     "Authors": [
         "Christophe Pallier",
         "Laurent Bonnasse-Gahot"
@@ -10,5 +10,6 @@
     "HowToAcknowledge": "",
     "Funding": [
         "French National Research Agency"
-    ]
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds002905.v1.0.0"
 }
