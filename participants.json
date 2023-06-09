@@ -4,7 +4,6 @@
         "Levels": {
             "ok": "included",
             "no": "rejected"
-	}
+        }
     }
 }
-
